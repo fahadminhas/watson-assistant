@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WatsonAssistant</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+    <!-- Watson Conversation Service Credentials --> 
+    <string name="workspace_id">025cf2a9-0e15-4044-a717-c579e42e7617</string> 
+    <string name="conversation_username">6ec74de0-ad60-4507-97a7-1d0ea8bacbaa</string> 
+    <string name="conversation_password">jXqpvLRzQYnZ</string>  
+    <string name="conversation_endpoint">https://gateway.watsonplatform.net/conversation/api</string>
+
+    <!--Watson Speech-To-Text Service Credentials--> 
+    <string name="STT_username">73d6efbb-4fa0-4b9f-88a0-0e9a807e4da9</string> 
+    <string name="STT_password">CawmvPQDJ0cY</string>  
+
+    <!--Watson Text-To-Speech Service Credentials--> 
+    <string name="TTS_username">3ada7415-1e30-4f42-bbe5-49a7ff446bb8</string>  
+    <string name="TTS_password">GjnEzF7Stzgo</string>
+
+    <!--Bluemix Mobile Analytics--> 
+    <string name="mobileanalytics_apikey">5bc78043-759d-4e52-9355-861b406bdaef</string>
+</resources>
