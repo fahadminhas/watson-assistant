@@ -4,3 +4,5 @@ This is the Android Project which has been built on IBM Watson Services. IBM Wat
 
 ### NOTE
 Please go to res/values/strings and update credential strings to your own IBM Cloud Services Credentials
+
+`Everyone is welcome to contribute, make Pull Requests with its more accuracy and optimized code!`
