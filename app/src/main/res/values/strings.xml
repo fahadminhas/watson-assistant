@@ -13,7 +13,4 @@
     <!--Watson Text-To-Speech Service Credentials--> 
     <string name="TTS_username">Your Text to Speech Username</string>  
     <string name="TTS_password">Your Text to Speech Password</string>
-
-    <!--Bluemix Mobile Analytics--> 
-    <string name="mobileanalytics_apikey">5bc78043-759d-4e52-9355-861b406bdaef</string>
 </resources>
